@@ -22,32 +22,32 @@ Marnus Labuschange - Run -58 Ball -110
 
 Score Board
 Over INDIA AUSTRALIA
-1-10 Over 80 60
-11-20 Over 115 104
-21- 30 Over 152 167
-31-40 Over 197 225
-43 Over 211 241
-41-50 Over 240
+1-10 Over 80 60 -
+11-20 Over 115 104 - 
+21- 30 Over 152 167 - 
+31-40 Over 197 225 - 
+43 Over 211 241 - 
+41-50 Over 240 - 
 
 Wicket
 India
 Run/Over
-30/4.2
-76/9.4
-81/10.2
-148/28.3
-178/35.5
-203/41.3
-211/43.4
-214/44.5
-226/47.3
-240/79.6
+30/4.2 - 
+76/9.4 - 
+81/10.2 - 
+148/28.3 - 
+178/35.5 - 
+203/41.3 - 
+211/43.4 -
+214/44.5 -
+226/47.3 -
+240/79.6 -
 
 Australia
 Run/ Over
-16/1.1
-41/4.3
-47/6.6
+16/1.1 -
+41/4.3 -
+47/6.6 -
 241/42.5
 
-Skill Used - Power Bi, Microsoft Excel
+Skill Used - Power Bi, Microsoft Excel.
