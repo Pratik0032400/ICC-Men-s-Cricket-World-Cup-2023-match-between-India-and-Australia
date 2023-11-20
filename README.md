@@ -21,12 +21,12 @@ Steval Smith - Run -4 Ball -9
 Marnus Labuschange - Run -58 Ball -110
 
 Score Board
-Over INDIA AUSTRALIA
-1-10 Over 80 60 -
-11-20 Over 115 104 - 
-21- 30 Over 152 167 - 
-31-40 Over 197 225 - 
-43 Over 211 241 - 
+Over INDIA/AUSTRALIA
+1-10 Over 80/60 -
+11-20 Over 115/104 - 
+21- 30 Over 152/167 - 
+31-40 Over 197/225 - 
+43 Over 211/241 - 
 41-50 Over 240 - 
 
 Wicket
