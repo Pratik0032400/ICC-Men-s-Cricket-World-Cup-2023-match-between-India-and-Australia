@@ -2,22 +2,22 @@
 Final ODI 48 of 48 AUS won by 6 wickets (42 Ball left)
 INDIA - 240 (50) AUSTRALIA - 451/4 ( 43)
 INIDA
-Rohit Sharma - Run-47 Ball-31
-Shubham Gil - Run-4 Ball -7
-Virat Kohli - Run -54 Ball -63
-Shreyas Lyer - Run -4 Ball -3
-Kl Rahul - Run -66 Ball -107
-Ravindra Jadega - Run -9 Ball -22
-Suryakumar Yadav - Run -18 Ball -28
-Mohammed Shami - Run -6 Ball -10
-Jashprit Bumrah - Run -1 Ball -3
-Kuldeep Yadov - Run -10 Ball -18
+Rohit Sharma - Run-47 Ball-31 /
+Shubham Gil - Run-4 Ball -7 / 
+Virat Kohli - Run -54 Ball -63 /
+Shreyas Lyer - Run -4 Ball -3 /
+Kl Rahul - Run -66 Ball -107 /
+Ravindra Jadega - Run -9 Ball -22 /
+Suryakumar Yadav - Run -18 Ball -28 /
+Mohammed Shami - Run -6 Ball -10 /
+Jashprit Bumrah - Run -1 Ball -3 /
+Kuldeep Yadov - Run -10 Ball -18 /
 
 AUSTRALIA
-David Warner - Run -7 Ball -3
-Travis Head - Run -137 Ball -120
-Mitchell Marsh - Run -15 Ball -15
-Steval Smith - Run -4 Ball -9
+David Warner - Run -7 Ball -3 /
+Travis Head - Run -137 Ball -120 /
+Mitchell Marsh - Run -15 Ball -15 /
+Steval Smith - Run -4 Ball -9 /
 Marnus Labuschange - Run -58 Ball -110
 
 Score Board
